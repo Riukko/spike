@@ -1,0 +1,6 @@
+Event	ID	Name			Wwise Object Path	Notes
+	1618187162	event_test			\Default Work Unit\event_test	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	481907579	test_sfx	D:\UserFiles\Projets\VideoGames\Unity Projects\Spike\Wwise\.cache\Windows\SFX\chaser_theme_v2_165bpm_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\test_sfx		29556428
+

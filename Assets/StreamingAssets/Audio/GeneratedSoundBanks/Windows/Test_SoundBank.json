@@ -1,0 +1,45 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "12",
+  "SoundbankVersion": "140",
+  "RootPaths": {
+   "ProjectRoot": "D:\\UserFiles\\Projets\\VideoGames\\Unity Projects\\Spike\\Wwise\\",
+   "SourceFilesRoot": "D:\\UserFiles\\Projets\\VideoGames\\Unity Projects\\Spike\\Wwise\\.cache\\Windows\\",
+   "SoundBanksRoot": "D:\\UserFiles\\Projets\\VideoGames\\Unity Projects\\Spike\\Assets\\StreamingAssets\\Audio\\GeneratedSoundBanks\\Windows\\",
+   "ExternalSourcesInputFile": "",
+   "ExternalSourcesOutputRoot": "D:\\UserFiles\\Projets\\VideoGames\\Unity Projects\\Spike\\Wwise\\GeneratedSoundBanks\\Windows"
+  },
+  "SoundBanks": [
+   {
+    "Id": "4154996803",
+    "GUID": "{831AE6ED-9B8B-4B9B-B382-0A0D9D6C422E}",
+    "Language": "SFX",
+    "Hash": "2835482278",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\Test_SoundBank",
+    "ShortName": "Test_SoundBank",
+    "Path": "Test_SoundBank.bnk",
+    "IncludedEvents": [
+     {
+      "Id": "1618187162",
+      "Name": "event_test",
+      "ObjectPath": "\\Events\\Default Work Unit\\event_test",
+      "GUID": "{80D5DD51-0CF0-4C98-9DAE-E0B929ECA617}",
+      "DurationType": "OneShot",
+      "DurationMin": "153.939392",
+      "DurationMax": "153.939392",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "481907579",
+        "Language": "SFX",
+        "ShortName": "chaser_theme_v2_165bpm.wav",
+        "Path": "SFX\\chaser_theme_v2_165bpm_10C4C929.wem"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}
